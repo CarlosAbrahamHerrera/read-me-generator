@@ -6,14 +6,6 @@
 ## Description
 This project is a simple Node.js tool that generates a professional README file. It saves time by automating the process of creating a markdown file with all the essential sections.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-
 ## Installation
 1. Clone the repository to your local machine 2. navigate to the project directory in your terminal. Run 'npm install' to install the necessary dependencies. 
 
