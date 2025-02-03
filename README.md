@@ -24,3 +24,5 @@ Install dependencies with 'npm install'. 2. run 'npm test' to execute the test s
 ## Questions
 If you have any questions about the repo, please contact me at officialcarlosdiaz@gmail.com.  
 You can view more of my projects at [carlosabrahamherrera](https://github.com/carlosabrahamherrera).
+
+VIDEO WALKTHROUGH: https://vimeo.com/1052854215?share=copy
